@@ -1,0 +1,5 @@
+@media screen and (max-width:600px){
+    button{
+        padding: 15px 20px;
+    }
+}
